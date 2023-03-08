@@ -11,7 +11,7 @@
 
 ## ToDo
 - [ ] add another website helpful to achieve higher career.
-- [ ] link with MongoDB to substitue latest.txt files.
+- [ ] link with MongoDB to substitute latest.txt files.
  
 ## edited 2023-03-08
 - deleted parameter flag which delays code
