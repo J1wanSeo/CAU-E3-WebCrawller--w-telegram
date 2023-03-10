@@ -17,12 +17,16 @@
         - Save date and title if new_title is not located in db
             - How? :  Save whole titles at standard time.
             - Managing Data : Delete it from DB after 2 days from article uploaded.
-=======
-- [ ] link with MongoDB to substitute latest.txt files.
->>>>>>> 5ec6b5ea88fa6fc4a5ab70f0c953a298346b0b3d
+- [ ] change MongoDB to Oracle
+=======.
+
  
 ## edited 2023-03-08
 - deleted parameter flag which delays code
 - changed parse_format of telegram-bot to 'MarkdownV2'
 - bot automatically gets articles body by entering article's address at POLARIS CAU Notice
 - defined function name 'md2' that reconfigure texts in html to adjust it to 'Markdown Grammar'
+
+## edited 2023-03-10
+ - added MongoDB Syncronization.
+ - modified md2 function.
