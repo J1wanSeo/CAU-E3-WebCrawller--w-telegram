@@ -11,11 +11,15 @@
 
 ## ToDo
 - [ ] add another website helpful to achieve higher career.
+<<<<<<< HEAD
 - [ ] link with MongoDB to substitue latest.txt files.
     - Code Structure:
         - Save date and title if new_title is not located in db
             - How? :  Save whole titles at standard time.
             - Managing Data : Delete it from DB after 2 days from article uploaded.
+=======
+- [ ] link with MongoDB to substitute latest.txt files.
+>>>>>>> 5ec6b5ea88fa6fc4a5ab70f0c953a298346b0b3d
  
 ## edited 2023-03-08
 - deleted parameter flag which delays code
