@@ -1,7 +1,7 @@
 # CAU E3 WebCrawller /w telegram
 
 ## Background
- - During School I usually miss the notice that could be helpful at my career. I thought that if there's robot that notice me when new articles come out. 
+ - During School I usually miss the notice that could be helpful at achieving higher career. I thought it will helpfull, if there's robot that notice me when new articles come out. 
  - By these needs I made it by python(bs4) and telegram-bot-python.
 
 ## Ability
@@ -11,14 +11,13 @@
 
 ## ToDo
 - [ ] add another website helpful to achieve higher career.
-<<<<<<< HEAD
 - [ ] link with MongoDB to substitue latest.txt files.
     - Code Structure:
         - Save date and title if new_title is not located in db
             - How? :  Save whole titles at standard time.
             - Managing Data : Delete it from DB after 2 days from article uploaded.
-- [ ] change MongoDB to Oracle
-=======.
+- [ ] change MongoDB to ~Oracle~ postgresql
+
 
  
 ## edited 2023-03-08
