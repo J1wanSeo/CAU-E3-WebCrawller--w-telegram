@@ -11,12 +11,12 @@
 
 ## ToDo
 - [ ] add another website helpful to achieve higher career.
-- [ ] link with MongoDB to substitue latest.txt files.
+- [x] link with MongoDB to substitue latest.txt files.
     - Code Structure:
         - Save date and title if new_title is not located in db
             - How? :  Save whole titles at standard time.
             - Managing Data : Delete it from DB after 2 days from article uploaded.
-- [ ] change MongoDB to ~Oracle~ postgresql
+- [x] change MongoDB to ~Oracle~ postgresql
 
 
  
@@ -29,3 +29,6 @@
 ## edited 2023-03-10
  - added MongoDB Syncronization.
  - modified md2 function.
+
+## edited 2023-03-17
+ - Changed MongoDB to PostgreSQL
