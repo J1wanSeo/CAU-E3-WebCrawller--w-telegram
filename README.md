@@ -17,6 +17,7 @@
             - How? :  Save whole titles at standard time.
             - Managing Data : Delete it from DB after 2 days from article uploaded.
 - [x] change MongoDB to ~Oracle~ postgresql
+- [ ] Convert programming language from Python 2 C
 
 
  
@@ -32,3 +33,8 @@
 
 ## edited 2023-03-17
  - Changed MongoDB to PostgreSQL
+
+## edited 2023-08-07
+ - Separated try-catch block by each website segments
+ - CHANGED req.urlopen &rarr; requests.get(url)
+ - 

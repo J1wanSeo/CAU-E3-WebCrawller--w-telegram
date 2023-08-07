@@ -32,7 +32,7 @@ try:
     # url
     url = "https://e3home.cau.ac.kr/em/em_1.php"
     res = req.urlopen(url)
-    url_2 = 'https://www.disu.or.kr/community/notice?cidx=44'
+    url_2 = 'https://www.disu.or.kr/community/notice'
     res_2 = req.urlopen(url_2)
     url_3 = 'https://www.cau.ac.kr/cms/FR_PRO_CON/BoardRss.do?pageNo=1&pagePerCnt=15&MENU_ID=100&SITE_NO=2&BOARD_SEQ=4&S_CATE_SEQ=&BOARD_TYPE=C0301&BOARD_CATEGORY_NO=&P_TAB_NO=&TAB_NO=&P_CATE_SEQ=&CATE_SEQ=&SEARCH_FLD=SUBJECT&SEARCH='
     res_3 = requests.get(url_3)
